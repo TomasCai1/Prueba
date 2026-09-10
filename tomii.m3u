@@ -1,0 +1,22 @@
+# ===================================================================
+# 🏛️ CANALES NACIONALES
+# ===================================================================
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ar.telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Telefe.svg/240px-Telefe.svg.png", 🇦🇷 Telefe
+https://live.telefe.com/hls/telefe.m3u8 
+
+#EXTINF:-1 tvg-id="ar.eltrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/El_Trece_logo_2016.svg/240px-El_Trece_logo_2016.svg.png", 🇦🇷 El Trece
+https://streaming.eltrece.com.ar/hls/eltrece.m3u8
+
+#EXTINF:-1 tvg-id="ar.tvpublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_TV_Publica.svg/240px-Logo_TV_Publica.svg.png", 🇦🇷 TV Pública
+https://live.tvpublica.ar/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal9" tvg-name="Canal 9" tvg-logo="https://www.canal9.com.ar/assets/img/logo.png", 🇦🇷 Canal 9
+https://stream.canal9.com.ar/hls/canal9.m3u8
+
+#EXTINF:-1 tvg-id="ar.dsporsts" tvg-name="Dsports" tvg-logo="", 🇦🇷 Dsports
+https://17.domhsd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.158.120.33&token=e514b15099ab3f7aa0b6210109bee5000e77cd30-ea-1789125360-1789071360
+
+#EXTINF:-1 tvg-id="ar.dsporsts" tvg-name="Dsports" tvg-logo="https://www.canal9.com.ar/assets/img/logo.png", 🇦🇷 Dsports
