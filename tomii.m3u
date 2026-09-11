@@ -1,22 +1,24 @@
-# ===================================================================
-# 🏛️ CANALES NACIONALES
-# ===================================================================
-
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ar.telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Telefe.svg/240px-Telefe.svg.png", 🇦🇷 Telefe
-https://live.telefe.com/hls/telefe.m3u8 
+#EXTINF:-1 tvg-id="ar.telefe" tvg-name="Telefe" tvg-logo="https://camo.githubusercontent.com/c97645fa4a01423f391479b11d5a1d46b7df3136e8c0d8f975229f212f8a0622/68747470733a2f2f692e696d6775722e636f6d2f77725a664d586e2e706e67", 🇦🇷 Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ar.eltrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/El_Trece_logo_2016.svg/240px-El_Trece_logo_2016.svg.png", 🇦🇷 El Trece
-https://streaming.eltrece.com.ar/hls/eltrece.m3u8
+#EXTINF:-1 tvg-id="ar.Canal26" tvg-name="Canal 26" tvg-logo="https://camo.githubusercontent.com/09d1b62987e819e850682bfa5f940318cbc6337467486da6cf36887f1edc782a/68747470733a2f2f692e696d6775722e636f6d2f357041615669682e706e67", 🇦🇷 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-#EXTINF:-1 tvg-id="ar.tvpublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_TV_Publica.svg/240px-Logo_TV_Publica.svg.png", 🇦🇷 TV Pública
-https://live.tvpublica.ar/hls/live.m3u8
+#EXTINF:-1 tvg-id="ar.eltrece" tvg-name="El Trece" tvg-logo="", 🇦🇷 El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ar.canal9" tvg-name="Canal 9" tvg-logo="https://www.canal9.com.ar/assets/img/logo.png", 🇦🇷 Canal 9
-https://stream.canal9.com.ar/hls/canal9.m3u8
+#EXTINF:-1 tvg-id="ar.ElNueve" tvg-name="El Nueve" tvg-logo="", 🇦🇷 El Nueve
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
 #EXTINF:-1 tvg-id="ar.dsporsts" tvg-name="Dsports" tvg-logo="", 🇦🇷 Dsports
 https://17.domhsd.com/dsports/tracks-v1a1/mono.m3u8?ip=186.158.120.33&token=e514b15099ab3f7aa0b6210109bee5000e77cd30-ea-1789125360-1789071360
 
-#EXTINF:-1 tvg-id="ar.dsporsts" tvg-name="Dsports" tvg-logo="https://www.canal9.com.ar/assets/img/logo.png", 🇦🇷 Dsports
+#EXTINF:-1 tvg-id="ar.espnpremium" tvg-name="ESPN Premium" tvg-logo="", 🇦🇷 ESPN Premium 
+https://17.domhsd.com/espnpremium/index.m3u8?token=e85bf696424fb33f6668341fdc6fd6cf1c75c209-fb-1789128566-1789074566&ip=186.158.120.33
+
+#EXTINF:-1 tvg-id="ar.tntsports" tvg-name="TNT Sports" tvg-logo="", 🇦🇷 TNT Sports 
+https://193.domhsd.com/tntsports/index.m3u8?token=67319adbcf398c6161bee157229d287964e5b239-16-1789128790-1789074790&ip=186.158.120.33
+
+
