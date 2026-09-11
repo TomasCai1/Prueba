@@ -19,7 +19,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News" , 🇦🇷 TN 
-http://15.204.246.24:8080/TNHD/index.m3u8
+http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" , 🇦🇷 TyC Sports 
 http://38.44.109.41:8003/play/a02l/index.m3u8
