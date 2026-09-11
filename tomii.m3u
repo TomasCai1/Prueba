@@ -27,3 +27,5 @@ https://17.domhsd.com/espnpremium/index.m3u8?token=e85bf696424fb33f6668341fdc6fd
 #EXTINF:-1 tvg-id="ar.tntsports" tvg-name="TNT Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest?cb=20240601173549&path-prefix=es", 🇦🇷 TNT Sports
 https://193.domhsd.com/tntsports/index.m3u8?token=67319adbcf398c6161bee157229d287964e5b239-16-1789128790-1789074790&ip=186.158.120.33
 
+#EXTINF:-1 tvg-id="ar.C5N" tvg-name="C5N" tvg-logo="", 🇦🇷 C5N
+https://www.youtube.com/watch?v=j6oh4Kqz3UM
