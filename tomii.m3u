@@ -15,13 +15,13 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ar.ElNueve" tvg-name="El Nueve" tvg-logo="https://camo.githubusercontent.com/f214a53f9120715748ba74bdb8996e3b68bdf1b2fd803f126be4833f0943c6d4/68747470733a2f2f692e696d6775722e636f6d2f45746356536d342e706e67", 🇦🇷 El Nueve
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",America TV (720p)
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" , 🇦🇷 America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN (1080p)
+#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News" , 🇦🇷 TN 
 http://15.204.246.24:8080/TNHD/index.m3u8
 
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports (720p)
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" , 🇦🇷 TyC Sports 
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
 
